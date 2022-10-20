@@ -20,7 +20,6 @@ const form = useForm({
   },
 });
 
-console.log(form.password);
 function submit() {
   alert("Successful");
 }
